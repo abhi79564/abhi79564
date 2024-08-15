@@ -14,7 +14,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.leetcode.com/abh123jeet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abh123jeet" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/abhi123jeet/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abh123jeet" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
